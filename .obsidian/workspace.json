@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "e4a51e803b178e53",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d050001460fac09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebf740964c587922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computerScienceBasic/linux/사용자 모드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df298d5d6cc18ac4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e34cac5398238c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3865a99e7ef1e64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "431d80a8330230dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1626316e5a1e3f75",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "right": {
+    "id": "342c3baf66de7a9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc7dd9fc25dad08f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c049f14d7c9dcf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "computerScienceBasic/linux/사용자 모드.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa438c0a6d80373a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "computerScienceBasic/linux/사용자 모드.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f26afae8c610f4ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ddf62f0770513770",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "computerScienceBasic/linux/사용자 모드.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "ebf740964c587922",
+  "lastOpenFiles": [
+    "README.md",
+    "computerScienceBasic/linux/linux 개요.md",
+    "computerScienceBasic/linux/사용자 모드.md",
+    "computerScienceBasic/linux/numa node.md",
+    "computerScienceBasic/linux/vim 사용법.md",
+    "computerScienceBasic/네트워크/로드밸런서_방화벽/layer4 VS layer7 proxying.md",
+    "Pasted image 20231208171549.png",
+    "computerScienceBasic/네트워크/로드밸런서_방화벽/로드 밸런서.md",
+    "computerScienceBasic/네트워크/로드밸런서_방화벽/L4 스위치 & ADC.md",
+    "computerScienceBasic/네트워크/로드밸런서_방화벽/4계층 장비의 특성.md",
+    "computerScienceBasic/네트워크/cisco/cisco overview.md",
+    "computerScienceBasic/네트워크/cisco/ANSIBLE.md",
+    "computerScienceBasic/네트워크/cisco/IaC.md",
+    "computerScienceBasic/네트워크/개요/네트워크 계층.md",
+    "computerScienceBasic/네트워크/cisco",
+    "computerScienceBasic/git/git and github.md",
+    "computerScienceBasic/git/github action.md",
+    "computerScienceBasic/git/CI CD with git.md",
+    "besangjang/sol.md",
+    "besangjang/무제 파일.md",
+    "도커/도커 포트 포워딩.md",
+    "도커/Doker 내부.md",
+    "무제 파일.md",
+    "besangjang",
+    "kwangConnection/모델/backend.md",
+    "kwangConnection/모델/express APi.md",
+    "kwangConnection/모델/mongoDB 모델.md",
+    "kwangConnection/모델/was.md",
+    "kwangConnection/모델/web server.md",
+    "ㅎimages can/Pasted image 20231020201857.png",
+    "kwangConnection/동작모델.canvas",
+    "ㅎimages can/Pasted image 20230925012511.png",
+    "Pasted image 20231028222059.png",
+    "computerScienceBasic/네트워크/네트워크 자동화",
+    "ㅎimages can/Pasted image 20231021171407.png",
+    "computerScienceBasic/linux/시스템 탐색",
+    "ㅎimages can/Pasted image 20231021170416.png",
+    "ㅎimages can/Pasted image 20231021163756.png",
+    "ㅎimages can/Pasted image 20231020194106.png",
+    "ㅎimages can/Pasted image 20231020201100.png",
+    "ㅎimages can/Pasted image 20231020204538.png",
+    "computerScienceBasic/네트워크/네트워크 설정",
+    "computerScienceBasic/네트워크/DNS",
+    "computerScienceBasic/네트워크/로드밸런서_방화벽",
+    "computerScienceBasic/네트워크/라우터",
+    "computerScienceBasic/네트워크/스위치",
+    "도커/무제 파일.canvas",
+    "computerScienceBasic/네트워크/개요",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "kwangConnection/Untitled 1.canvas"
+  ]
+}
