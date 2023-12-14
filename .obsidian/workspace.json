@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computerScienceBasic/linux/사용자 모드.md",
+                "file": "computerScienceBasic/네트워크/네트워크 설정/서버 라우팅테이블.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f30a3cea3c4e8f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computerScienceBasic/네트워크/스위치/스위치_VLAN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computerScienceBasic/linux/사용자 모드.md",
+                "file": "computerScienceBasic/네트워크/스위치/스위치_VLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computerScienceBasic/linux/사용자 모드.md",
+                "file": "computerScienceBasic/네트워크/스위치/스위치_VLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computerScienceBasic/linux/사용자 모드.md"
+                "file": "computerScienceBasic/네트워크/스위치/스위치_VLAN.md"
               }
             }
           }
@@ -146,15 +159,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ebf740964c587922",
+  "active": "6f30a3cea3c4e8f2",
   "lastOpenFiles": [
+    "computerScienceBasic/네트워크/스위치/스위치 stp.md",
+    "computerScienceBasic/네트워크/포트.md",
+    "computerScienceBasic/네트워크/공유기 설정.md",
+    "computerScienceBasic/네트워크/XSS.md",
+    "computerScienceBasic/네트워크/wireShark.md",
+    "computerScienceBasic/네트워크/TCP UDP.md",
+    "imagesCan/Pasted image 20230925125447.png",
+    "computerScienceBasic/네트워크/스위치/ARP GARP RARP.md",
+    "imagesCan/Pasted image 20230925013254.png",
+    "imagesCan/Pasted image 20230925125231.png",
+    "Pasted image 20231028222059.png",
+    "Pasted image 20231208171549.png",
+    "image.md",
+    "computerScienceBasic/네트워크/네트워크 설정/서버 라우팅테이블.md",
+    "computerScienceBasic/네트워크/스위치/2계층 _ 스위치.md",
+    "imagesCan/Pasted image 20230925012511.png",
+    "2023-12-14.md",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
+    "imagesCan/Pasted image 20231021163756.png",
+    "computerScienceBasic/네트워크/네트워크 설정/네트워크 확인.md",
+    "computerScienceBasic/linux/사용자 모드.md",
     "README.md",
     "computerScienceBasic/linux/linux 개요.md",
-    "computerScienceBasic/linux/사용자 모드.md",
     "computerScienceBasic/linux/numa node.md",
     "computerScienceBasic/linux/vim 사용법.md",
     "computerScienceBasic/네트워크/로드밸런서_방화벽/layer4 VS layer7 proxying.md",
-    "Pasted image 20231208171549.png",
     "computerScienceBasic/네트워크/로드밸런서_방화벽/로드 밸런서.md",
     "computerScienceBasic/네트워크/로드밸런서_방화벽/L4 스위치 & ADC.md",
     "computerScienceBasic/네트워크/로드밸런서_방화벽/4계층 장비의 특성.md",
@@ -164,31 +197,13 @@
     "computerScienceBasic/네트워크/개요/네트워크 계층.md",
     "computerScienceBasic/네트워크/cisco",
     "computerScienceBasic/git/git and github.md",
-    "computerScienceBasic/git/github action.md",
-    "computerScienceBasic/git/CI CD with git.md",
-    "besangjang/sol.md",
-    "besangjang/무제 파일.md",
-    "도커/도커 포트 포워딩.md",
-    "도커/Doker 내부.md",
-    "무제 파일.md",
     "besangjang",
-    "kwangConnection/모델/backend.md",
-    "kwangConnection/모델/express APi.md",
-    "kwangConnection/모델/mongoDB 모델.md",
-    "kwangConnection/모델/was.md",
-    "kwangConnection/모델/web server.md",
-    "ㅎimages can/Pasted image 20231020201857.png",
+    "imagesCan/Pasted image 20231020201857.png",
     "kwangConnection/동작모델.canvas",
-    "ㅎimages can/Pasted image 20230925012511.png",
-    "Pasted image 20231028222059.png",
     "computerScienceBasic/네트워크/네트워크 자동화",
-    "ㅎimages can/Pasted image 20231021171407.png",
+    "imagesCan/Pasted image 20231021171407.png",
     "computerScienceBasic/linux/시스템 탐색",
-    "ㅎimages can/Pasted image 20231021170416.png",
-    "ㅎimages can/Pasted image 20231021163756.png",
-    "ㅎimages can/Pasted image 20231020194106.png",
-    "ㅎimages can/Pasted image 20231020201100.png",
-    "ㅎimages can/Pasted image 20231020204538.png",
+    "imagesCan/Pasted image 20231021170416.png",
     "computerScienceBasic/네트워크/네트워크 설정",
     "computerScienceBasic/네트워크/DNS",
     "computerScienceBasic/네트워크/로드밸런서_방화벽",
@@ -196,8 +211,6 @@
     "computerScienceBasic/네트워크/스위치",
     "도커/무제 파일.canvas",
     "computerScienceBasic/네트워크/개요",
-    "무제 파일.canvas",
-    "무제 파일 1.canvas",
     "kwangConnection/Untitled 1.canvas"
   ]
 }
