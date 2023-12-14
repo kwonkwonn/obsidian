@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computerScienceBasic/네트워크/포트.md",
+                "file": "computerScienceBasic/네트워크/로드밸런서_방화벽/4계층 장비의 특성.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computerScienceBasic/네트워크/포트.md",
+                "file": "computerScienceBasic/네트워크/로드밸런서_방화벽/4계층 장비의 특성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computerScienceBasic/네트워크/포트.md",
+                "file": "computerScienceBasic/네트워크/로드밸런서_방화벽/4계층 장비의 특성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computerScienceBasic/네트워크/포트.md"
+                "file": "computerScienceBasic/네트워크/로드밸런서_방화벽/4계층 장비의 특성.md"
               }
             }
           }
@@ -161,22 +161,28 @@
   },
   "active": "6f30a3cea3c4e8f2",
   "lastOpenFiles": [
-    "computerScienceBasic/네트워크/공유기 설정.md",
-    "computerScienceBasic/네트워크/XSS.md",
-    "computerScienceBasic/네트워크/wireShark.md",
-    "computerScienceBasic/네트워크/스위치/스위치_VLAN.md",
-    "computerScienceBasic/네트워크/스위치/스위치 stp.md",
-    "computerScienceBasic/네트워크/포트.md",
-    "computerScienceBasic/네트워크/TCP UDP.md",
-    "imagesCan/Pasted image 20230925125447.png",
+    "computerScienceBasic/네트워크/로드밸런서_방화벽/방화벽.md",
+    "computerScienceBasic/네트워크/로드밸런서_방화벽/로드 밸런서.md",
+    "computerScienceBasic/네트워크/로드밸런서_방화벽/layer4 VS layer7 proxying.md",
+    "computerScienceBasic/네트워크/로드밸런서_방화벽/L4 스위치 & ADC.md",
+    "computerScienceBasic/네트워크/로드밸런서_방화벽/ADC(Application Delivery Controller).md",
+    "computerScienceBasic/네트워크/로드밸런서_방화벽/4계층 장비의 특성.md",
+    "computerScienceBasic/네트워크/스위치/2계층 _ 스위치.md",
     "computerScienceBasic/네트워크/스위치/ARP GARP RARP.md",
+    "computerScienceBasic/네트워크/스위치/스위치 stp.md",
+    "computerScienceBasic/네트워크/스위치/스위치_VLAN.md",
+    "computerScienceBasic/네트워크/TCP UDP.md",
+    "computerScienceBasic/네트워크/wireShark.md",
+    "computerScienceBasic/네트워크/XSS.md",
+    "computerScienceBasic/네트워크/공유기 설정.md",
+    "computerScienceBasic/네트워크/포트.md",
+    "imagesCan/Pasted image 20230925125447.png",
     "imagesCan/Pasted image 20230925013254.png",
     "imagesCan/Pasted image 20230925125231.png",
     "Pasted image 20231028222059.png",
     "Pasted image 20231208171549.png",
     "image.md",
     "computerScienceBasic/네트워크/네트워크 설정/서버 라우팅테이블.md",
-    "computerScienceBasic/네트워크/스위치/2계층 _ 스위치.md",
     "imagesCan/Pasted image 20230925012511.png",
     "2023-12-14.md",
     "무제 파일 1.canvas",
@@ -188,14 +194,8 @@
     "computerScienceBasic/linux/linux 개요.md",
     "computerScienceBasic/linux/numa node.md",
     "computerScienceBasic/linux/vim 사용법.md",
-    "computerScienceBasic/네트워크/로드밸런서_방화벽/layer4 VS layer7 proxying.md",
-    "computerScienceBasic/네트워크/로드밸런서_방화벽/로드 밸런서.md",
-    "computerScienceBasic/네트워크/로드밸런서_방화벽/L4 스위치 & ADC.md",
-    "computerScienceBasic/네트워크/로드밸런서_방화벽/4계층 장비의 특성.md",
     "computerScienceBasic/네트워크/cisco/cisco overview.md",
     "computerScienceBasic/네트워크/cisco/ANSIBLE.md",
-    "computerScienceBasic/네트워크/cisco/IaC.md",
-    "computerScienceBasic/네트워크/개요/네트워크 계층.md",
     "computerScienceBasic/네트워크/cisco",
     "besangjang",
     "imagesCan/Pasted image 20231020201857.png",
