@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computerScienceBasic/네트워크/스위치/스위치_VLAN.md",
+                "file": "computerScienceBasic/네트워크/포트.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computerScienceBasic/네트워크/스위치/스위치_VLAN.md",
+                "file": "computerScienceBasic/네트워크/포트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computerScienceBasic/네트워크/스위치/스위치_VLAN.md",
+                "file": "computerScienceBasic/네트워크/포트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computerScienceBasic/네트워크/스위치/스위치_VLAN.md"
+                "file": "computerScienceBasic/네트워크/포트.md"
               }
             }
           }
@@ -161,11 +161,12 @@
   },
   "active": "6f30a3cea3c4e8f2",
   "lastOpenFiles": [
-    "computerScienceBasic/네트워크/스위치/스위치 stp.md",
-    "computerScienceBasic/네트워크/포트.md",
     "computerScienceBasic/네트워크/공유기 설정.md",
     "computerScienceBasic/네트워크/XSS.md",
     "computerScienceBasic/네트워크/wireShark.md",
+    "computerScienceBasic/네트워크/스위치/스위치_VLAN.md",
+    "computerScienceBasic/네트워크/스위치/스위치 stp.md",
+    "computerScienceBasic/네트워크/포트.md",
     "computerScienceBasic/네트워크/TCP UDP.md",
     "imagesCan/Pasted image 20230925125447.png",
     "computerScienceBasic/네트워크/스위치/ARP GARP RARP.md",
@@ -196,7 +197,6 @@
     "computerScienceBasic/네트워크/cisco/IaC.md",
     "computerScienceBasic/네트워크/개요/네트워크 계층.md",
     "computerScienceBasic/네트워크/cisco",
-    "computerScienceBasic/git/git and github.md",
     "besangjang",
     "imagesCan/Pasted image 20231020201857.png",
     "kwangConnection/동작모델.canvas",
