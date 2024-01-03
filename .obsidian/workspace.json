@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computerScienceBasic/네트워크/네트워크 설정/서버 라우팅테이블.md",
+                "file": "네트워크/네트워크 설정/서버 라우팅테이블.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computerScienceBasic/네트워크/로드밸런서_방화벽/4계층 장비의 특성.md",
+                "file": "codeTest/c++ 스트ㄹ링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8cf742b2c9b2592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도커/docker basic_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computerScienceBasic/네트워크/로드밸런서_방화벽/4계층 장비의 특성.md",
+                "file": "codeTest/c++ 스트ㄹ링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computerScienceBasic/네트워크/로드밸런서_방화벽/4계층 장비의 특성.md",
+                "file": "codeTest/c++ 스트ㄹ링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computerScienceBasic/네트워크/로드밸런서_방화벽/4계층 장비의 특성.md"
+                "file": "codeTest/c++ 스트ㄹ링.md"
               }
             }
           }
@@ -161,56 +173,56 @@
   },
   "active": "6f30a3cea3c4e8f2",
   "lastOpenFiles": [
-    "computerScienceBasic/네트워크/로드밸런서_방화벽/방화벽.md",
-    "computerScienceBasic/네트워크/로드밸런서_방화벽/로드 밸런서.md",
-    "computerScienceBasic/네트워크/로드밸런서_방화벽/layer4 VS layer7 proxying.md",
-    "computerScienceBasic/네트워크/로드밸런서_방화벽/L4 스위치 & ADC.md",
-    "computerScienceBasic/네트워크/로드밸런서_방화벽/ADC(Application Delivery Controller).md",
-    "computerScienceBasic/네트워크/로드밸런서_방화벽/4계층 장비의 특성.md",
-    "computerScienceBasic/네트워크/스위치/2계층 _ 스위치.md",
-    "computerScienceBasic/네트워크/스위치/ARP GARP RARP.md",
-    "computerScienceBasic/네트워크/스위치/스위치 stp.md",
-    "computerScienceBasic/네트워크/스위치/스위치_VLAN.md",
-    "computerScienceBasic/네트워크/TCP UDP.md",
-    "computerScienceBasic/네트워크/wireShark.md",
-    "computerScienceBasic/네트워크/XSS.md",
-    "computerScienceBasic/네트워크/공유기 설정.md",
-    "computerScienceBasic/네트워크/포트.md",
+    "codeTest/2중배열.md",
+    "codeTest/c++ 스트ㄹ링.md",
+    "linux/쉘 스크립트/예약변수 환경변수.md",
+    "linux/쉘 스크립트/기본 쉘 스크립트.md",
+    "linux/쉘 스크립트",
+    "virtualization/qemu/qemu overview.md",
+    "virtualization/xen/xen 개요.md",
+    "virtualization/qemu",
+    "virtualization/Paravirtualization Fullvirtualization.md",
+    "virtualization/cpu 가상화.md",
+    "네트워크/로드밸런서_방화벽/ADC(Application Delivery Controller).md",
+    "linux/사용자 모드.md",
+    "linux/바이오스.md",
+    "linux/fileSystem hierarchy Standard.md",
+    "linux/linux 개요.md",
+    "linux/numa node.md",
+    "linux/standard i.o.md",
+    "linux/systemd(System daemon)을 관리하는 systemctl.md",
+    "linux/vim 사용법.md",
+    "linux/디바이스 드라이버.md",
+    "linux/리눅스 기본 커맨드들.md",
+    "virtualization/In Out put 가상화.md",
+    "도커/docker basic_1.md",
+    "virtualization/무제 파일.md",
+    "virtualization/가상화란.md",
+    "ssh 연결 하기.md",
+    "besangjang/무제 파일.md",
+    "besangjang/sol.md",
+    "kwangConnection/동작모델.canvas",
+    "codeTest",
+    "virtualization/xen",
+    "virtualization",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "imagesCan/Pasted image 20231208171549.png",
     "imagesCan/Pasted image 20230925125447.png",
     "imagesCan/Pasted image 20230925013254.png",
     "imagesCan/Pasted image 20230925125231.png",
-    "Pasted image 20231028222059.png",
-    "Pasted image 20231208171549.png",
-    "image.md",
-    "computerScienceBasic/네트워크/네트워크 설정/서버 라우팅테이블.md",
+    "imagesCan/Pasted image 20231028222059.png",
     "imagesCan/Pasted image 20230925012511.png",
-    "2023-12-14.md",
-    "무제 파일 1.canvas",
-    "무제 파일.canvas",
     "imagesCan/Pasted image 20231021163756.png",
-    "computerScienceBasic/네트워크/네트워크 설정/네트워크 확인.md",
-    "computerScienceBasic/linux/사용자 모드.md",
-    "README.md",
-    "computerScienceBasic/linux/linux 개요.md",
-    "computerScienceBasic/linux/numa node.md",
-    "computerScienceBasic/linux/vim 사용법.md",
-    "computerScienceBasic/네트워크/cisco/cisco overview.md",
-    "computerScienceBasic/네트워크/cisco/ANSIBLE.md",
-    "computerScienceBasic/네트워크/cisco",
+    "네트워크/cisco",
     "besangjang",
     "imagesCan/Pasted image 20231020201857.png",
-    "kwangConnection/동작모델.canvas",
-    "computerScienceBasic/네트워크/네트워크 자동화",
+    "네트워크/네트워크 자동화",
     "imagesCan/Pasted image 20231021171407.png",
-    "computerScienceBasic/linux/시스템 탐색",
+    "linux/시스템 탐색",
     "imagesCan/Pasted image 20231021170416.png",
-    "computerScienceBasic/네트워크/네트워크 설정",
-    "computerScienceBasic/네트워크/DNS",
-    "computerScienceBasic/네트워크/로드밸런서_방화벽",
-    "computerScienceBasic/네트워크/라우터",
-    "computerScienceBasic/네트워크/스위치",
+    "네트워크/네트워크 설정",
     "도커/무제 파일.canvas",
-    "computerScienceBasic/네트워크/개요",
     "kwangConnection/Untitled 1.canvas"
   ]
 }
