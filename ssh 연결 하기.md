@@ -1,4 +1,4 @@
-s
+
 
 # server:
 	sudo apt update

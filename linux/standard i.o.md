@@ -2,20 +2,24 @@
 c 표준 라이브러리에서 STANDARD I.O 라는 함수들을 제공함
 [[디바이스 드라이버]]
 
-![[Pasted image 20230925153152.png]]
+![](https://i.imgur.com/ak5q4Wb.png)
 
 
-![[Pasted image 20230925153324.png]]
+
+![](https://i.imgur.com/1bUx2jR.png)
+
 유닉스 i/o의 로우 함수들을 추상화 한 상위 함수들임
 
 
 standard i/o 들은 stream의 형태로 파일들을 오픈함
 
-![[Pasted image 20230925153659.png]]
+![](https://i.imgur.com/7JZ9W5R.png)
+
 표준 io는 시작과 동시에 세가지 스트림을 실행함
 
 
-![[Pasted image 20230925153758.png]]
+![](https://i.imgur.com/tGPkjsq.png)
+
 standard io 에서 파일을 출력하거나 저장때, 모든 입력에 즉각적으로 저장하는 것이 아니라, 메모리상에 임시 버퍼를 할당하고, 버퍼가 가득차거나 개행문자를 만날때만 저장,출력을 진행함.
 
 이때, 메모리에 작성할 수 있기 때문에 속도도 빨라지고, 시스템콜을 적게 해도 돼어서 cpu에 부담도 적어지지만, 전원이 꺼지는 경우 모든 데이터가 날아가기 때문에 위험함.

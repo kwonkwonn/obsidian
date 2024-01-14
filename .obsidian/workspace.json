@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/standard i.o.md",
+                "file": "linux/쉘 스크립트/기본 쉘 스크립트.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/standard i.o.md",
+                "file": "linux/쉘 스크립트/기본 쉘 스크립트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/standard i.o.md",
+                "file": "linux/쉘 스크립트/기본 쉘 스크립트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/standard i.o.md"
+                "file": "linux/쉘 스크립트/기본 쉘 스크립트.md"
               }
             }
           }
@@ -160,35 +160,35 @@
   },
   "active": "ebf740964c587922",
   "lastOpenFiles": [
-    "linux/numa node.md",
-    "linux/linux 개요.md",
-    "네트워크/네트워크 설정/서버 라우팅테이블.md",
-    "besangjang/sol.md",
-    "besangjang/무제 파일.md",
-    "codeTest/2중배열.md",
-    "codeTest/c++ 스트ㄹ링.md",
-    "git/github action.md",
-    "git/git and github.md",
-    "git/CI CD with git.md",
-    "kwangConnection/동작모델.canvas",
-    "kwangConnection/모델/web server.md",
-    "linux/쉘 스크립트/예약변수 환경변수.md",
+    "linux/쉘 스크립트/정규 표현식.md",
     "linux/쉘 스크립트/기본 쉘 스크립트.md",
-    "linux/쉘 스크립트",
-    "virtualization/qemu/qemu overview.md",
-    "virtualization/xen/xen 개요.md",
-    "virtualization/qemu",
-    "virtualization/Paravirtualization Fullvirtualization.md",
-    "virtualization/cpu 가상화.md",
-    "네트워크/로드밸런서_방화벽/ADC(Application Delivery Controller).md",
-    "linux/사용자 모드.md",
-    "linux/바이오스.md",
-    "linux/fileSystem hierarchy Standard.md",
-    "linux/standard i.o.md",
-    "linux/systemd(System daemon)을 관리하는 systemctl.md",
-    "linux/vim 사용법.md",
+    "linux/쉘 스크립트/연산자.md",
+    "linux/쉘 스크립트/예약변수 환경변수.md",
+    "linux/쉘 스크립트/특수한 매개변수.md",
+    "linux/시스템 소프트웨어/프로세스 스케줄러.md",
     "linux/디바이스 드라이버.md",
     "linux/리눅스 기본 커맨드들.md",
+    "linux/바이오스.md",
+    "linux/vim 사용법.md",
+    "linux/systemd(System daemon)을 관리하는 systemctl.md",
+    "linux/standard i.o.md",
+    "linux/linux 개요.md",
+    "linux/fileSystem hierarchy Standard.md",
+    "linux/시스템 소프트웨어/Process States.md",
+    "도커/docker basic_1.md",
+    "linux/시스템 소프트웨어/프로그램 실행.md",
+    "linux/시스템 탐색/시스템 상태.md",
+    "linux/시스템 탐색/시스템 구성 확인하기.md",
+    "linux/시스템 소프트웨어/프로세스 생성.md",
+    "linux/시스템 소프트웨어/무제 파일.md",
+    "linux/시스템 소프트웨어/Fork().md",
+    "ssh 연결 하기.md",
+    "README.md",
+    "().md",
+    "네트워크/개요/클래스형 ip.md",
+    "kwangConnection/동작모델.canvas",
+    "linux/쉘 스크립트",
+    "virtualization/qemu",
     "codeTest",
     "virtualization/xen",
     "virtualization",
