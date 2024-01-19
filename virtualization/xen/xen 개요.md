@@ -1,7 +1,16 @@
 
-xen은 type1(bare metal)가상화를 제공함
 
 
-![](https://i.imgur.com/JVk6AAW.png)
+![](https://i.imgur.com/aNubMjA.png)
 
+xen은 하드웨어 위에 바로 가상화를 위한 하이퍼바이져가 있는 type1(베어메탈) 가상화를 지원함.
+
+여기서 Dom0이 중요한 역할을 맡는다.
+Dom0은 특별한 권한을 가지고 다른 VM들을 관리한다.
+DomU(타 VM들)은 하드웨어에 접근하기 위해 VM0에 요청을 보내야 하는데, 이는 PV front라는 인터페이스를 통해 전달 된다.
+이는 XenStore,XenBus를 통해서 진행되는데 도메인들 사이의 데이터 통신 줄 정도로 생각하면 될듯 
+
+
+[[전가상화 반가상화]]
+Paravirtualization(반가상화) 모델을 사용하여 OS에 수정이 필요하지만, 상대적으로 속도가 빠르고 가상화 기능이 없는 하드웨어 위에서도 돌아감.
 
