@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "virtualization/xen/networking in xen.md",
+                "file": "virtualization/xen/xen 개요.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "virtualization/xen/networking in xen.md",
+                "file": "virtualization/xen/xen 개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "virtualization/xen/networking in xen.md",
+                "file": "virtualization/xen/xen 개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "virtualization/xen/networking in xen.md"
+                "file": "virtualization/xen/xen 개요.md"
               }
             }
           }
@@ -148,33 +148,35 @@
   },
   "active": "7c556fd46d151e56",
   "lastOpenFiles": [
-    "virtualization/xen/LVM in XEN.md",
     "virtualization/xen/networking in xen.md",
-    "linux/LVM.md",
-    "virtualization/xen/Dom0 세팅.md",
-    "virtualization/xen/xen 과 grub.md",
     "virtualization/xen/xen 개요.md",
+    "virtualization/xen/LVM in XEN.md",
+    "virtualization/xen/Dom0 세팅.md",
     "virtualization/xen/balloning.md",
-    "도커/docker basic_1.md",
-    "virtualization/qemu/qemu overview.md",
-    "virtualization/xen/xen 키워드.md",
-    "linux/시스템 소프트웨어/프로그램 실행.md",
-    "Paravirtualization Fullvirtualization.md",
-    "virtualization/전가상화 반가상화.md",
-    "virtualization/Paravirtualization Fullvirtualization.md",
     "virtualization/cpu 가상화.md",
     "virtualization/가상화란.md",
-    "virtualization/In Out put 가상화.md",
-    "linux/소켓통신/클라이언트 사이드.md",
-    "linux/시스템 탐색/grep.md",
-    "linux/쉘 스크립트/정규 표현식.md",
-    "linux/소켓통신/서버 사이드.md",
-    "linux/소켓통신/개요.md",
-    "linux/메모리 관리/가상 메모리.md",
-    "linux/메모리 관리/메모리  정보.md",
+    "virtualization/전가상화 반가상화.md",
+    "virtualization/xen/xen 과 grub.md",
+    "virtualization/xen/xen 키워드.md",
+    "virtualization/xen/man XEN.md",
+    "linux/fileSystem hierarchy Standard.md",
+    "linux/LVM.md",
+    "linux/standard i.o.md",
+    "linux/vim 사용법.md",
+    "linux/systemd(System daemon)을 관리하는 systemctl.md",
+    "linux/사용자 모드.md",
+    "linux/바이오스.md",
+    "linux/리눅스 기본 커맨드들.md",
+    "linux/디바이스 드라이버.md",
+    "linux/linux 개요.md",
+    "경제/대표 인덱스.md",
+    "AWS/aws.md",
+    "경제",
+    "codeTest/c++ 스트ㄹ링.md",
+    "codeTest/2중배열.md",
+    "AWS/enhanced Networking.md",
+    "AWS",
     "linux/메모리 관리",
-    "linux/시스템 탐색/시스템 구성 확인하기.md",
-    "linux/시스템 탐색/시스템 상태.md",
     "linux/소켓통신",
     "kwangConnection/동작모델.canvas",
     "linux/쉘 스크립트",
@@ -192,9 +194,7 @@
     "imagesCan/Pasted image 20230925012511.png",
     "imagesCan/Pasted image 20231021163756.png",
     "네트워크/cisco",
-    "besangjang",
     "imagesCan/Pasted image 20231020201857.png",
-    "네트워크/네트워크 자동화",
     "imagesCan/Pasted image 20231021171407.png",
     "imagesCan/Pasted image 20231021170416.png",
     "도커/무제 파일.canvas",

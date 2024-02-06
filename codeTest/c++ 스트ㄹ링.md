@@ -1,4 +1,4 @@
-
+]
 #include <string>
 
 getline(std::cin, stringVar);
