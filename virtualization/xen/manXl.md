@@ -18,6 +18,7 @@ DESCRIPTION
        specific options.  There are a few exceptions to this rule in the cases where the subcommand in question acts on all domains, the entire machine, or directly on the Xen hypervisor.  Those exceptions
        will be clear for each of those subcommands.
 
+
 NOTES
        start the script /etc/init.d/xencommons at boot time
            Most xl operations rely upon xenstored and xenconsoled: make sure you start the script /etc/init.d/xencommons at boot time to initialize all the daemons needed by xl.
@@ -31,6 +32,7 @@ NOTES
 
        run xl as root
            Most xl commands require root privileges to run due to the communications channels used to talk to the hypervisor.  Running as non root will return an error.
+
 
 GLOBAL OPTIONS
        Some global options are always available:
