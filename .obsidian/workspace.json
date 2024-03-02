@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ssh 연결 하기.md",
+                "file": "네트워크/포트.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ssh 연결 하기.md",
+                "file": "네트워크/포트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ssh 연결 하기.md",
+                "file": "네트워크/포트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ssh 연결 하기.md"
+                "file": "네트워크/포트.md"
               }
             }
           }
@@ -161,34 +161,34 @@
   },
   "active": "6e01fe6a2507ddce",
   "lastOpenFiles": [
-    "KNETWebService/데이터베이스 다이아그램.md",
-    "ssh 연결 하기.md",
-    "KNETWebService",
-    "kwangConnection/모델/모델.md",
-    "kwangConnection/모델/web server.md",
-    "kwangConnection/모델/was.md",
-    "kwangConnection/모델/mongoDB 모델.md",
-    "kwangConnection/모델/express APi.md",
-    "kwangConnection/모델/backend.md",
-    "kwangConnection/아이디어/블라인드 소개팅.md",
-    "kwangConnection/auth.md",
-    "kwangConnection/metamask.md",
-    "kwangConnection/OutLine.md",
-    "kwangConnection/동작모델.canvas",
-    "시스템 탐색/방화벽 설정(from console).md",
-    "시스템 탐색/grep.md",
-    "시스템 탐색/시스템 구성 확인하기.md",
-    "시스템 탐색/시스템 상태.md",
-    "().md",
-    "README.md",
-    "Paravirtualization Fullvirtualization.md",
+    "네트워크/서버 라우팅테이블.md",
+    "네트워크/가상화 된 운영체제의 네트워크.md",
+    "네트워크/공유기 설정.md",
+    "네트워크/wireShark.md",
+    "네트워크/IEEE 802.11.md",
     "네트워크/XSS.md",
     "네트워크/TCP UDP.md",
-    "네트워크/IEEE 802.11.md",
-    "virtualization/전가상화 반가상화.md",
-    "네트워크/가상화 된 운영체제의 네트워크.md",
+    "네트워크/로드밸런서_방화벽/ADC(Application Delivery Controller).md",
+    "네트워크/로드밸런서_방화벽/4계층 장비의 특성.md",
+    "네트워크/라우터/스위칭.md",
+    "네트워크/라우터/라우팅(라우터가 경로 정보를 얻는방법).md",
+    "네트워크/라우터/서브넷과 게이트웨이.md",
+    "네트워크/라우터/NAT 과 사설 ip 주소.md",
+    "네트워크/라우터/3계층_라우터.md",
     "네트워크/네트워크 설정/네트워크 확인.md",
+    "네트워크/네트워크 자동화/파이썬 기초.md",
     "네트워크/네트워크 설정/기본(ubuntu).md",
+    "네트워크/DNS/DNS란?.md",
+    "네트워크/cisco/CCNA/layer 2 interacting.md",
+    "네트워크/cisco/CCNA/라우터 기본설정.md",
+    "네트워크/cisco/CCNA/라우터 조작.md",
+    "네트워크/cisco/IaC.md",
+    "네트워크/cisco/meraki.md",
+    "네트워크/cisco/cisco overview.md",
+    "네트워크/cisco/ANSIBLE.md",
+    "도커/docker basic_1.md",
+    "KNETWebService",
+    "kwangConnection/동작모델.canvas",
     "네트워크/cisco/CCNA",
     "virtualization/kvm",
     "virtualization/qemu",
