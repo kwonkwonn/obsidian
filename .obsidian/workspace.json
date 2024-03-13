@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ssh 연결 하기.md",
+                "file": "virtualization/xen/xen 개요.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ssh 연결 하기.md",
+                "file": "virtualization/xen/xen 개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ssh 연결 하기.md",
+                "file": "virtualization/xen/xen 개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ssh 연결 하기.md"
+                "file": "virtualization/xen/xen 개요.md"
               }
             }
           }
@@ -161,43 +161,43 @@
   },
   "active": "6e01fe6a2507ddce",
   "lastOpenFiles": [
-    "시스템 탐색/시스템 상태.md",
-    "시스템 탐색/시스템 구성 확인하기.md",
+    "virtualization/xen/Dom0 세팅.md",
+    "virtualization/virtIO-net.md",
+    "virtualization/kvm/게스트 가상화 환경 만들기.md",
+    "virtualization/kvm/툴들.md",
+    "virtualization/kvm/프로젝트 개요(KWS).md",
+    "virtualization/kvm/KVM개요.md",
+    "virtualization/kvm/qemu/무제 파일.md",
+    "linux/시스템 소프트웨어/해쉬 맵(과제).md",
     "시스템 탐색/방화벽 설정(from console).md",
-    "시스템 탐색/grep.md",
-    "도커/도커 포트 포워딩.md",
-    "도커/개요.md",
-    "도커/Doker 내부.md",
-    "도커/Dockerfile basic.md",
-    "도커/docker basic_1.md",
-    "네트워크/포트.md",
-    "네트워크/서버 라우팅테이블.md",
-    "네트워크/TCP UDP.md",
-    "네트워크/가상화 된 운영체제의 네트워크.md",
-    "네트워크/IEEE 802.11.md",
-    "네트워크/스위치/스위치 stp.md",
-    "네트워크/스위치/스위치_VLAN.md",
-    "네트워크/스위치/ARP GARP RARP.md",
-    "네트워크/스위치/2계층 _ 스위치.md",
-    "네트워크/로드밸런서_방화벽/방화벽.md",
-    "네트워크/로드밸런서_방화벽/layer4 VS layer7 proxying.md",
-    "네트워크/로드밸런서_방화벽/로드 밸런서.md",
-    "네트워크/로드밸런서_방화벽/L4 스위치 & ADC.md",
-    "네트워크/로드밸런서_방화벽/ADC(Application Delivery Controller).md",
-    "네트워크/로드밸런서_방화벽/4계층 장비의 특성.md",
-    "네트워크/라우터/스위칭.md",
-    "네트워크/라우터/서브넷과 게이트웨이.md",
+    "linux/메모리 관리/메모리  정보.md",
+    "linux/메모리 관리/가상 메모리.md",
+    "시스템 탐색/시스템 구성 확인하기.md",
+    "ssh 연결 하기.md",
+    "webserver/nginx basic config.md",
+    "네트워크/cisco/CCNA/라우터(2).md",
+    "webserver",
+    "네트워크/cisco/CCNA/라우터(1).md",
+    "네트워크/cisco/CCNA/라우터 기본설정.md",
+    "linux/소켓통신/서버 사이드.md",
+    "linux/시스템 소프트웨어/Process States.md",
+    "linux/시스템 소프트웨어/프로그램 실행.md",
+    "linux/시스템 소프트웨어/프로세스 생성.md",
+    "linux/시스템 소프트웨어/프로세스 스케줄러.md",
+    "linux/fileSystem hierarchy Standard.md",
+    "linux/linux 개요.md",
+    "linux/LVM.md",
+    "linux/standard i.o.md",
+    "알고리즘",
     "KNETWebService",
     "kwangConnection/동작모델.canvas",
     "네트워크/cisco/CCNA",
     "virtualization/kvm",
-    "virtualization/qemu",
+    "virtualization/kvm/qemu",
     "경제",
     "AWS",
     "linux/메모리 관리",
     "linux/소켓통신",
-    "linux/쉘 스크립트",
-    "virtualization/qemu",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "imagesCan/Pasted image 20231208171549.png",
