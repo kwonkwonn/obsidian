@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "virtualization/xen/xen 개요.md",
+                "file": "DB/개체-관계.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "virtualization/xen/xen 개요.md",
+                "file": "DB/개체-관계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "virtualization/xen/xen 개요.md",
+                "file": "DB/개체-관계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "virtualization/xen/xen 개요.md"
+                "file": "DB/개체-관계.md"
               }
             }
           }
@@ -161,33 +161,34 @@
   },
   "active": "6e01fe6a2507ddce",
   "lastOpenFiles": [
-    "virtualization/xen/Dom0 세팅.md",
-    "virtualization/virtIO-net.md",
-    "virtualization/kvm/게스트 가상화 환경 만들기.md",
-    "virtualization/kvm/툴들.md",
-    "virtualization/kvm/프로젝트 개요(KWS).md",
-    "virtualization/kvm/KVM개요.md",
-    "virtualization/kvm/qemu/무제 파일.md",
-    "linux/시스템 소프트웨어/해쉬 맵(과제).md",
-    "시스템 탐색/방화벽 설정(from console).md",
-    "linux/메모리 관리/메모리  정보.md",
-    "linux/메모리 관리/가상 메모리.md",
-    "시스템 탐색/시스템 구성 확인하기.md",
-    "ssh 연결 하기.md",
-    "webserver/nginx basic config.md",
+    "DB/데이터베이스 구조.md",
+    "DB/개체-관계.md",
+    "DB/DB란.md",
+    "네트워크/cisco/CCNA/switch interface.md",
     "네트워크/cisco/CCNA/라우터(2).md",
-    "webserver",
     "네트워크/cisco/CCNA/라우터(1).md",
+    "네트워크/cisco/CCNA/라우터 조작.md",
     "네트워크/cisco/CCNA/라우터 기본설정.md",
-    "linux/소켓통신/서버 사이드.md",
-    "linux/시스템 소프트웨어/Process States.md",
-    "linux/시스템 소프트웨어/프로그램 실행.md",
-    "linux/시스템 소프트웨어/프로세스 생성.md",
-    "linux/시스템 소프트웨어/프로세스 스케줄러.md",
-    "linux/fileSystem hierarchy Standard.md",
-    "linux/linux 개요.md",
-    "linux/LVM.md",
-    "linux/standard i.o.md",
+    "네트워크/cisco/CCNA/ethernet header(layer 2).md",
+    "네트워크/cisco/CCNA/IPv4 header(layer 3).md",
+    "네트워크/cisco/CCNA/IPv4.md",
+    "virtualization/kvm/프로젝트 개요(KWS).md",
+    "DB",
+    "virtualization/kvm/툴들.md",
+    "virtualization/xen/balloning.md",
+    "virtualization/xen/Dom0 세팅.md",
+    "virtualization/xen/LVM in XEN.md",
+    "virtualization/xen/manXl.md",
+    "virtualization/xen/networking in xen.md",
+    "virtualization/kvm/게스트 가상화 환경 만들기.md",
+    "ssh 연결 하기.md",
+    "알고리즘/알고리즘 효율성.md",
+    "네트워크/개요/네트워크 구성요소.md",
+    "네트워크/개요/네트워크 계층.md",
+    "네트워크/cisco/ANSIBLE.md",
+    "네트워크/cisco/cisco overview.md",
+    "virtualization/xen/xen 개요.md",
+    "webserver",
     "알고리즘",
     "KNETWebService",
     "kwangConnection/동작모델.canvas",
@@ -197,7 +198,6 @@
     "경제",
     "AWS",
     "linux/메모리 관리",
-    "linux/소켓통신",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "imagesCan/Pasted image 20231208171549.png",
