@@ -13,26 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시스템 탐색/방화벽 설정(from console).md",
+                "file": "ssh 연결 하기.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6e01fe6a2507ddce",
+            "id": "ca7296bf02509375",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/개체-관계.md",
+                "file": "네트워크/DNS/DNS란?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32d9b19946d97ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "k8s/basic concepts and commands/application manifest.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/개체-관계.md",
+                "file": "k8s/basic concepts and commands/application manifest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/개체-관계.md",
+                "file": "k8s/basic concepts and commands/application manifest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/개체-관계.md"
+                "file": "k8s/basic concepts and commands/application manifest.md"
               }
             }
           }
@@ -159,45 +171,45 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6e01fe6a2507ddce",
+  "active": "32d9b19946d97ef5",
   "lastOpenFiles": [
-    "DB/데이터베이스 구조.md",
-    "DB/개체-관계.md",
-    "DB/DB란.md",
-    "네트워크/cisco/CCNA/switch interface.md",
-    "네트워크/cisco/CCNA/라우터(2).md",
-    "네트워크/cisco/CCNA/라우터(1).md",
-    "네트워크/cisco/CCNA/라우터 조작.md",
-    "네트워크/cisco/CCNA/라우터 기본설정.md",
-    "네트워크/cisco/CCNA/ethernet header(layer 2).md",
-    "네트워크/cisco/CCNA/IPv4 header(layer 3).md",
-    "네트워크/cisco/CCNA/IPv4.md",
-    "virtualization/kvm/프로젝트 개요(KWS).md",
-    "DB",
-    "virtualization/kvm/툴들.md",
-    "virtualization/xen/balloning.md",
-    "virtualization/xen/Dom0 세팅.md",
-    "virtualization/xen/LVM in XEN.md",
-    "virtualization/xen/manXl.md",
-    "virtualization/xen/networking in xen.md",
-    "virtualization/kvm/게스트 가상화 환경 만들기.md",
+    "k8s/basic concepts and commands/run image, port forwarding.md",
+    "k8s/basic concepts and commands/application manifest.md",
+    "k8s/basic concepts and commands/deployment controller.md",
+    "k8s/basic concepts and commands",
+    "k8s/k8s basic.md",
+    "k8s",
+    "webserver/nginx basic config.md",
+    "네트워크/무제 폴더",
+    "시스템 탐색/시스템 상태.md",
     "ssh 연결 하기.md",
-    "알고리즘/알고리즘 효율성.md",
+    "시스템 탐색/시스템 구성 확인하기.md",
+    "시스템 탐색/방화벽 설정(from console).md",
+    "시스템 탐색/grep.md",
+    "도커/도커 포트 포워딩.md",
+    "도커/개요.md",
+    "도커/Doker 내부.md",
+    "도커/docker basic_1.md",
+    "도커/Dockerfile basic.md",
     "네트워크/개요/네트워크 구성요소.md",
     "네트워크/개요/네트워크 계층.md",
-    "네트워크/cisco/ANSIBLE.md",
-    "네트워크/cisco/cisco overview.md",
-    "virtualization/xen/xen 개요.md",
+    "네트워크/DNS/DNS란?.md",
+    "네트워크/cisco/CCNA/라우터 조작.md",
+    "네트워크/cisco/CCNA/IPv4 header(layer 3).md",
+    "네트워크/cisco/CCNA/IPv4.md",
+    "네트워크/cisco/CCNA/ethernet header(layer 2).md",
+    "virtualization/kvm/프로젝트 개요(KWS).md",
+    "virtualization/cpu 가상화.md",
+    "virtualization/kvm/툴들.md",
+    "virtualization/kvm/게스트 가상화 환경 만들기.md",
+    "linux/OS concepts",
+    "cicd",
+    "DB",
     "webserver",
     "알고리즘",
     "KNETWebService",
     "kwangConnection/동작모델.canvas",
     "네트워크/cisco/CCNA",
-    "virtualization/kvm",
-    "virtualization/kvm/qemu",
-    "경제",
-    "AWS",
-    "linux/메모리 관리",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "imagesCan/Pasted image 20231208171549.png",

@@ -1,2 +1,0 @@
-
-https://github.blog/2023-04-05-building-organization-wide-governance-and-re-use-for-ci-cd-and-automation-with-github-actions/?utm_campaign=2023Q4-WBR-WW-CICD-Governance&utm_medium=product&utm_source=github
