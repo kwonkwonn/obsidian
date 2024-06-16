@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8s/basic concepts and commands/application manifest.md",
+                "file": "k8s/basic concepts and commands/configmap, secret value.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 338.5
   },
   "right": {
     "id": "342c3baf66de7a9e",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "k8s/basic concepts and commands/application manifest.md",
+                "file": "k8s/basic concepts and commands/configmap, secret value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "k8s/basic concepts and commands/application manifest.md",
+                "file": "k8s/basic concepts and commands/configmap, secret value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "k8s/basic concepts and commands/application manifest.md"
+                "file": "k8s/basic concepts and commands/configmap, secret value.md"
               }
             }
           }
@@ -173,11 +173,19 @@
   },
   "active": "32d9b19946d97ef5",
   "lastOpenFiles": [
-    "k8s/basic concepts and commands/run image, port forwarding.md",
+    "k8s/basic concepts and commands/V-net routing.md",
+    "k8s/basic concepts and commands/configmap, secret value.md",
     "k8s/basic concepts and commands/application manifest.md",
     "k8s/basic concepts and commands/deployment controller.md",
-    "k8s/basic concepts and commands",
+    "k8s/basic concepts and commands/pod access.md",
+    "k8s/basic concepts and commands/run image, port forwarding.md",
     "k8s/k8s basic.md",
+    "도커/Dockerfile basic.md",
+    "도커/개요.md",
+    "도커/도커 포트 포워딩.md",
+    "도커/Doker 내부.md",
+    "도커/docker basic_1.md",
+    "k8s/basic concepts and commands",
     "k8s",
     "webserver/nginx basic config.md",
     "네트워크/무제 폴더",
@@ -186,11 +194,6 @@
     "시스템 탐색/시스템 구성 확인하기.md",
     "시스템 탐색/방화벽 설정(from console).md",
     "시스템 탐색/grep.md",
-    "도커/도커 포트 포워딩.md",
-    "도커/개요.md",
-    "도커/Doker 내부.md",
-    "도커/docker basic_1.md",
-    "도커/Dockerfile basic.md",
     "네트워크/개요/네트워크 구성요소.md",
     "네트워크/개요/네트워크 계층.md",
     "네트워크/DNS/DNS란?.md",
@@ -199,9 +202,6 @@
     "네트워크/cisco/CCNA/IPv4.md",
     "네트워크/cisco/CCNA/ethernet header(layer 2).md",
     "virtualization/kvm/프로젝트 개요(KWS).md",
-    "virtualization/cpu 가상화.md",
-    "virtualization/kvm/툴들.md",
-    "virtualization/kvm/게스트 가상화 환경 만들기.md",
     "linux/OS concepts",
     "cicd",
     "DB",
