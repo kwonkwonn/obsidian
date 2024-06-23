@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8s/basic concepts and commands/configmap, secret value.md",
+                "file": "k8s/set up k8s in hard way/ssh, DNS setting.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "k8s/basic concepts and commands/configmap, secret value.md",
+                "file": "k8s/set up k8s in hard way/ssh, DNS setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "k8s/basic concepts and commands/configmap, secret value.md",
+                "file": "k8s/set up k8s in hard way/ssh, DNS setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "k8s/basic concepts and commands/configmap, secret value.md"
+                "file": "k8s/set up k8s in hard way/ssh, DNS setting.md"
               }
             }
           }
@@ -173,8 +173,11 @@
   },
   "active": "32d9b19946d97ef5",
   "lastOpenFiles": [
-    "k8s/basic concepts and commands/V-net routing.md",
+    "k8s/set up k8s in hard way/downloading k8s in hard way.md",
+    "k8s/set up k8s in hard way/ssh, DNS setting.md",
+    "k8s/set up k8s in hard way",
     "k8s/basic concepts and commands/configmap, secret value.md",
+    "k8s/basic concepts and commands/V-net routing.md",
     "k8s/basic concepts and commands/application manifest.md",
     "k8s/basic concepts and commands/deployment controller.md",
     "k8s/basic concepts and commands/pod access.md",
@@ -200,8 +203,6 @@
     "네트워크/cisco/CCNA/라우터 조작.md",
     "네트워크/cisco/CCNA/IPv4 header(layer 3).md",
     "네트워크/cisco/CCNA/IPv4.md",
-    "네트워크/cisco/CCNA/ethernet header(layer 2).md",
-    "virtualization/kvm/프로젝트 개요(KWS).md",
     "linux/OS concepts",
     "cicd",
     "DB",
@@ -209,7 +210,6 @@
     "알고리즘",
     "KNETWebService",
     "kwangConnection/동작모델.canvas",
-    "네트워크/cisco/CCNA",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "imagesCan/Pasted image 20231208171549.png",
