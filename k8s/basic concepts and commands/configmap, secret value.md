@@ -41,7 +41,6 @@ kubectl create configmap {config map 이름} --from-literal={key}={value}
 //설정값이 많지 않은 경우 literal로 생성해도 문제가 없음
 
 
-
 kubectl get cm {config map 이름}
 
 Kubectl describe {config map 이름}

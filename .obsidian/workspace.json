@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8s/set up k8s in hard way/ssh, DNS setting.md",
+                "file": "k8s/set up k8s in hard way/Generating the Data Encryption Config and Key.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "k8s/set up k8s in hard way/ssh, DNS setting.md",
+                "file": "k8s/set up k8s in hard way/Generating the Data Encryption Config and Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "k8s/set up k8s in hard way/ssh, DNS setting.md",
+                "file": "k8s/set up k8s in hard way/Generating the Data Encryption Config and Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "k8s/set up k8s in hard way/ssh, DNS setting.md"
+                "file": "k8s/set up k8s in hard way/Generating the Data Encryption Config and Key.md"
               }
             }
           }
@@ -173,42 +173,42 @@
   },
   "active": "32d9b19946d97ef5",
   "lastOpenFiles": [
+    "k8s/set up k8s in hard way/CA certificate.md",
+    "k8s/set up k8s in hard way/Generating the Data Encryption Config and Key.md",
+    "virtualization/가상화란.md",
+    "virtualization/Formal Requirements for Virtualizable Third Generation Architectures.md",
+    "virtualization/kvm/프로젝트 개요(KWS).md",
+    "virtualization/kvm/툴들.md",
+    "virtualization/kvm/게스트 가상화 환경 만들기.md",
+    "virtualization/kvm/KVM개요.md",
+    "virtualization/xen/LVM in XEN.md",
+    "virtualization/xen/manXl.md",
+    "virtualization/xen/Dom0 세팅.md",
+    "virtualization/xen/balloning.md",
+    "virtualization/virtIO-net.md",
+    "virtualization/libvirt.md",
+    "virtualization/cpu 가상화.md",
+    "k8s/basic concepts and commands/external storage.md",
+    "virtualization/무제 폴더",
+    "k8s/basic concepts and commands/configmap, secret value.md",
+    "k8s/basic concepts and commands/application manifest.md",
+    "k8s/basic concepts and commands/pod access.md",
+    "k8s/basic concepts and commands/V-net routing.md",
+    "k8s/basic concepts and commands/run image, port forwarding.md",
+    "k8s/basic concepts and commands/deployment controller.md",
+    "네트워크/cisco/CCNA/ether channel.md",
+    "네트워크/cisco/CCNA/vlan.md",
     "k8s/set up k8s in hard way/downloading k8s in hard way.md",
     "k8s/set up k8s in hard way/ssh, DNS setting.md",
     "k8s/set up k8s in hard way",
-    "k8s/basic concepts and commands/configmap, secret value.md",
-    "k8s/basic concepts and commands/V-net routing.md",
-    "k8s/basic concepts and commands/application manifest.md",
-    "k8s/basic concepts and commands/deployment controller.md",
-    "k8s/basic concepts and commands/pod access.md",
-    "k8s/basic concepts and commands/run image, port forwarding.md",
-    "k8s/k8s basic.md",
-    "도커/Dockerfile basic.md",
-    "도커/개요.md",
-    "도커/도커 포트 포워딩.md",
-    "도커/Doker 내부.md",
-    "도커/docker basic_1.md",
     "k8s/basic concepts and commands",
     "k8s",
-    "webserver/nginx basic config.md",
     "네트워크/무제 폴더",
-    "시스템 탐색/시스템 상태.md",
-    "ssh 연결 하기.md",
-    "시스템 탐색/시스템 구성 확인하기.md",
-    "시스템 탐색/방화벽 설정(from console).md",
-    "시스템 탐색/grep.md",
-    "네트워크/개요/네트워크 구성요소.md",
-    "네트워크/개요/네트워크 계층.md",
-    "네트워크/DNS/DNS란?.md",
-    "네트워크/cisco/CCNA/라우터 조작.md",
-    "네트워크/cisco/CCNA/IPv4 header(layer 3).md",
-    "네트워크/cisco/CCNA/IPv4.md",
     "linux/OS concepts",
     "cicd",
     "DB",
     "webserver",
     "알고리즘",
-    "KNETWebService",
     "kwangConnection/동작모델.canvas",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
