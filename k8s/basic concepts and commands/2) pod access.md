@@ -39,5 +39,8 @@ kubectl get deploy
 kubectl delete deploy --all
 //모든 디플로이 삭제, deploy가 관리하던 파드도 모두 삭제된다
 
+kubectl delete -f {dir Name}/
+# 해당 디렉토리 내부의 모든 yaml로 구성 된 리소스를 제거한다.
+
 ```
 ![](https://i.imgur.com/0cINVz8.png)

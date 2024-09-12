@@ -51,3 +51,4 @@ cp ./kubectl /usr/local/bin/
 과 같은 커맨드로 실행파일 디렉토리에 넣음으로 써 실행 할 수 있다.
 예) `kubectl version --client`
 
+위와 같은 컴포넌트들은 소위 administration 노드에 설치가 될 예정이고, 추후 master node(server), worker node 에 복사되어 bootstrap 될 예정.

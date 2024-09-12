@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ssh 연결 하기.md",
+                "file": "AWS/enhanced Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k8s/set up k8s in hard way/Generating the Data Encryption Config and Key.md",
+                "file": "virtualization/Formal Requirements for Virtualizable Third Generation Architectures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8301783d971ea59e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-2/마이크로프로세서/2주차 마프.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 200
   },
   "right": {
     "id": "342c3baf66de7a9e",
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "k8s/set up k8s in hard way/Generating the Data Encryption Config and Key.md",
+                "file": "AWS/enhanced Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "k8s/set up k8s in hard way/Generating the Data Encryption Config and Key.md",
+                "file": "AWS/enhanced Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "k8s/set up k8s in hard way/Generating the Data Encryption Config and Key.md"
+                "file": "AWS/enhanced Networking.md"
               }
             }
           }
@@ -171,44 +182,44 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "32d9b19946d97ef5",
+  "active": "7c556fd46d151e56",
   "lastOpenFiles": [
-    "k8s/set up k8s in hard way/CA certificate.md",
-    "k8s/set up k8s in hard way/Generating the Data Encryption Config and Key.md",
-    "virtualization/가상화란.md",
-    "virtualization/Formal Requirements for Virtualizable Third Generation Architectures.md",
-    "virtualization/kvm/프로젝트 개요(KWS).md",
-    "virtualization/kvm/툴들.md",
-    "virtualization/kvm/게스트 가상화 환경 만들기.md",
-    "virtualization/kvm/KVM개요.md",
+    "AWS/aws.md",
+    "2024-2/마이크로프로세서/2주차 마프.md",
+    "2024-2/컴퓨터비전/2주차.md",
+    "2024-2/인공지능/2주차.md",
+    "2024-2/컴퓨터비전",
     "virtualization/xen/LVM in XEN.md",
-    "virtualization/xen/manXl.md",
+    "virtualization/kws/개요.md",
+    "virtualization/kws",
     "virtualization/xen/Dom0 세팅.md",
     "virtualization/xen/balloning.md",
-    "virtualization/virtIO-net.md",
-    "virtualization/libvirt.md",
-    "virtualization/cpu 가상화.md",
-    "k8s/basic concepts and commands/external storage.md",
-    "virtualization/무제 폴더",
-    "k8s/basic concepts and commands/configmap, secret value.md",
-    "k8s/basic concepts and commands/application manifest.md",
-    "k8s/basic concepts and commands/pod access.md",
-    "k8s/basic concepts and commands/V-net routing.md",
-    "k8s/basic concepts and commands/run image, port forwarding.md",
-    "k8s/basic concepts and commands/deployment controller.md",
-    "네트워크/cisco/CCNA/ether channel.md",
-    "네트워크/cisco/CCNA/vlan.md",
-    "k8s/set up k8s in hard way/downloading k8s in hard way.md",
-    "k8s/set up k8s in hard way/ssh, DNS setting.md",
+    "virtualization/Formal Requirements for Virtualizable Third Generation Architectures.md",
+    "virtualization/가상화란.md",
+    "virtualization/전가상화 반가상화.md",
+    "virtualization/툴들.md",
+    "virtualization/kvm/kvm-qemu/KVM-Qemu 개요.md",
+    "virtualization/kvm/kvm-qemu/무제 파일.md",
+    "linux/소켓통신/개요.md",
+    "linux/쉘 스크립트/특수한 매개변수.md",
+    "linux/쉘 스크립트/정규 표현식.md",
+    "linux/쉘 스크립트/예약변수 환경변수.md",
+    "linux/쉘 스크립트/기본 쉘 스크립트.md",
+    "linux/시스템 소프트웨어/Process States.md",
+    "2024-2/인공지능/1주차.md",
+    "ssh 연결 하기.md",
+    "2024-2/인공지능",
+    "2024-2/마이크로프로세서",
+    "linux/리눅스 기본 커맨드들.md",
+    "2024-2",
+    "무제 폴더",
+    "linux/vim 사용법.md",
+    "virtualization/kvm/게스트 가상화 환경 만들기.md",
+    "virtualization/kvm/프로젝트 개요(KWS).md",
+    "virtualization/libvirt",
     "k8s/set up k8s in hard way",
     "k8s/basic concepts and commands",
     "k8s",
-    "네트워크/무제 폴더",
-    "linux/OS concepts",
-    "cicd",
-    "DB",
-    "webserver",
-    "알고리즘",
     "kwangConnection/동작모델.canvas",
     "무제 파일.canvas",
     "무제 파일 1.canvas",

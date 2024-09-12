@@ -52,9 +52,27 @@ control sensitive 인스트럭션은 해당 인스트럭션의 시행 이후 <E,
 ##### Behavior sensitive
 behavior sensitive를 설명하기 위해 2가지 notation을 들 수 있다
 r= (l,b)라고 할때
-r@x = (l+x,b)이고 
+r@x = (l+x,b)이고 (memory allocation bound 라고 생각할 수 있다)
 e | r = 가상 메모리상에서 지정하는 사용할 수 있는 메모리의 영역으로 E\[l]에서 E\[l+b]만큼의 영역이다.
 S1= < e | r1, m, p, r>, S2= < e|r1@x, m, p, r1@x> 이고
 각각 특정 인스트럭션 i를 시행했을 때,
-e | r1 != e | r1@x 거나 p1!= p2이면 해당 인스트럭션은 behavior sensitive한 인스트럭션이다.
-즉, 어떤 인스트럭션이 레지스터가 정의 하는 크기에 따라 인스트럭션의 결과가 달라진다면 해당 인스트럭션은 behavior sensitive한 인스트럭션이다.
+e | r1 != e | r1@x 거나 p1!= p2
+이면 해당 인스트럭션은 behavior sensitive한 인스트럭션이다.
+즉, 어떤 인스트럭션이 레지스터가 정의 하는 크기나 위치, 혹은 유저 모드에 따라 인스트럭션의 결과가 달라진다면 해당 인스트럭션은 behavior sensitive한 인스트럭션이다.
+
+정의에 의거하여 우리는 어떤 instruction이 control, behavior sensitive 하면 sensitive 라고 할 수 있으며, 그렇지 않다면 무해한(innocuous)한 instruction이라고 할 수 있다.
+
+#### VMM
+
+vmm(virtual machine monitor)은 앞서 말한 조건들을 충족하기 위해 크게 세가지의 모듈을 활용한다고 볼 수 있는데, 이는 **dispatcher**, **allocator**, **interpreter** 정도로 볼 수 있다.
+
+###### dispatcher
+dispatcher은 말 그대로 특정 상황(trap)에 따라 어떤 모듈을 불러올지 결정하는 상위의 모듈이다. 이는 hardware 가 trap을 할때 배치되어 실행된다.
+
+###### allocator 
+allocator은 vm에 자원할당을 결정하는 모듈이다. vm이 하나인 경우 vmm과 vm의 자원을 분리하는 단순한 업무를 맡지만, 여러개인 경우,  vm들 간에 중복된 자원을 할당하지 않게 관리한다.
+allocator은 dispatcher가 특권모드로 자원의 할당량을 변경하는(relocation bound를 수정 한다거나) 명령을 실행할 시 호출 될 수 있다.
+
+###### interpreter
+나머지 모든 trap 들은 interpreter에 의해 관리 될 수 있다. interpreter 은 기본적으로 하나의 trap 에 한번씩 루틴을 돌며, 원본(vm 내부)의 intruction이 호스트 컴퓨터에 어떤 영향을 미칠 지 계산하고, 변환한다.
+
