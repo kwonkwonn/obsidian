@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-2/마이크로프로세서/5주차.md",
+                "file": "2024-2/인공지능/추론.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-2/마이크로프로세서/5주차.md",
+                "file": "2024-2/인공지능/추론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-2/마이크로프로세서/5주차.md",
+                "file": "2024-2/인공지능/추론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-2/마이크로프로세서/5주차.md"
+                "file": "2024-2/인공지능/추론.md"
               }
             }
           }
@@ -198,33 +198,33 @@
   },
   "active": "8301783d971ea59e",
   "lastOpenFiles": [
-    "2024-2/마이크로프로세서/4주차.md",
-    "2024-2/마이크로프로세서/5주차.md",
+    "Pasted image 20241010194126.png",
+    "2024-2/인공지능/6주차.md",
+    "2024-2/인공지능/추론.md",
+    "2024-2/인공지능/4주차.md",
+    "2024-2/인공지능/3주차.md",
     "2024-2/인공지능/2주차.md",
-    "네트워크/cisco/CCNA/라우터 기본설정.md",
+    "2024-2/인공지능/1주차.md",
+    "2024-2/컴퓨터비전/5주차.md",
+    "2024-2/컴퓨터비전/4주차.md",
+    "2024-2/컴퓨터비전/3주차.md",
+    "2024-2/컴퓨터비전/2주차.md",
+    "네트워크/cisco/CCNA/static routing.md",
+    "네트워크/cisco/CCNA/OSPF.md",
+    "네트워크/cisco/CCNA/etherchannel.md",
     "네트워크/cisco/CCNA/vlan.md",
-    "네트워크/cisco/CCNA/switch interface.md",
+    "네트워크/cisco/CCNA/stp.md",
     "네트워크/cisco/CCNA/IPv4 header(layer 3).md",
+    "네트워크/cisco/CCNA/switch interface.md",
+    "네트워크/cisco/CCNA/ARP.md",
+    "네트워크/cisco/CCNA/라우터(2).md",
+    "네트워크/cisco/CCNA/라우터(1).md",
+    "네트워크/cisco/CCNA/라우터 조작.md",
+    "네트워크/cisco/CCNA/라우터 기본설정.md",
     "네트워크/cisco/CCNA/IPv4.md",
     "네트워크/cisco/CCNA/ethernet header(layer 2).md",
     "네트워크/cisco/CCNA/ether channel.md",
-    "네트워크/TCP UDP.md",
-    "네트워크/IEEE 802.11.md",
-    "네트워크/가상화 된 운영체제의 네트워크.md",
-    "2024-2/컴퓨터비전/5주차.md",
-    "2024-2/컴퓨터비전/3주차.md",
-    "2024-2/컴퓨터비전/2주차.md",
-    "2024-2/컴퓨터비전/4주차.md",
-    "2024-2/인공지능/5주차.md",
-    "2024-2/인공지능/4주차.md",
-    "2024-2/마이크로프로세서/3주차.md",
-    "2024-2/인공지능/3주차.md",
-    "2024-2/마이크로프로세서/2주차 마프.md",
-    "네트워크/DNS/DNS란?.md",
-    "low level/arm assembly_32bit.md",
     "low level",
-    "AWS/enhanced Networking.md",
-    "AWS/aws.md",
     "2024-2/컴퓨터비전",
     "virtualization/kws",
     "2024-2/인공지능",
