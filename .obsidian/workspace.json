@@ -4,71 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5d050001460fac09",
+        "id": "bf2b8c01d956f336",
         "type": "tabs",
         "children": [
           {
-            "id": "7c556fd46d151e56",
+            "id": "2ed8cd9f25c4c357",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2/인공지능/2주차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f9cdd45d61ede87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2/마이크로프로세서/3주차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca7296bf02509375",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "네트워크/DNS/DNS란?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32d9b19946d97ef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "virtualization/Formal Requirements for Virtualizable Third Generation Architectures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8301783d971ea59e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-2/인공지능/추론.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -103,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -111,15 +65,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "342c3baf66de7a9e",
@@ -135,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-2/인공지능/추론.md",
+                "file": "컴파일러/컴파일러를 배우기 위하여....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "컴파일러를 배우기 위하여...의 백링크"
             }
           },
           {
@@ -152,10 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-2/인공지능/추론.md",
+                "file": "컴파일러/컴파일러를 배우기 위하여....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "컴파일러를 배우기 위하여...의 나가는 링크"
             }
           },
           {
@@ -166,7 +125,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -175,8 +136,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-2/인공지능/추론.md"
-              }
+                "file": "컴파일러/컴파일러를 배우기 위하여....md"
+              },
+              "icon": "lucide-list",
+              "title": "컴파일러를 배우기 위하여... 개요"
             }
           }
         ]
@@ -188,52 +151,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8301783d971ea59e",
+  "active": "2ed8cd9f25c4c357",
   "lastOpenFiles": [
+    "네트워크/개요/네트워크 통신.md",
+    "클라우드/terraform/init.md",
+    "클라우드/terraform/terraform aws-registry.md",
+    "클라우드/terraform/types.md",
+    "클라우드/terraform/vpc.md",
+    "클라우드/terraform",
+    "무제",
+    "클라우드",
+    "virtualization/툴들.md",
+    "2025Fall/소공/3. Agile Software Development.md",
+    "네트워크/geneve.md",
+    "2025Fall/소공/4.Requirements engineering.md",
+    "2025Fall/소공/2.Software Process.md",
+    "2025Fall/소공",
+    "k8s/set up k8s in hard way/downloading k8s in hard way.md",
+    "k8s/set up k8s in hard way/Generating the Data Encryption Config and Key.md",
+    "k8s/set up k8s in hard way/ssh, DNS setting.md",
+    "k8s/k8s basic.md",
+    "k8s/set up k8s in hard way/bootstraping components(control plane).md",
+    "k8s/set up k8s in hard way/bootstraping components(etcd).md",
+    "k8s/basic concepts and commands/1) run image, port forwarding.md",
+    "컴파일러/형식언어.md",
+    "컴파일러/컴파일러를 배우기 위하여....md",
+    "컴파일러",
+    "HOG.md",
+    "네트워크/라우터/스위칭.md",
+    "네트워크/라우터/서브넷과 게이트웨이.md",
+    "네트워크/라우터/라우팅(라우터가 경로 정보를 얻는방법).md",
+    "네트워크/라우터/NAT 과 사설 ip 주소.md",
+    "네트워크/라우터/3계층_라우터.md",
+    "네트워크/개요/클래스래스.md",
     "Pasted image 20241010194126.png",
-    "2024-2/인공지능/6주차.md",
-    "2024-2/인공지능/추론.md",
-    "2024-2/인공지능/4주차.md",
-    "2024-2/인공지능/3주차.md",
-    "2024-2/인공지능/2주차.md",
-    "2024-2/인공지능/1주차.md",
-    "2024-2/컴퓨터비전/5주차.md",
-    "2024-2/컴퓨터비전/4주차.md",
-    "2024-2/컴퓨터비전/3주차.md",
-    "2024-2/컴퓨터비전/2주차.md",
-    "네트워크/cisco/CCNA/static routing.md",
-    "네트워크/cisco/CCNA/OSPF.md",
-    "네트워크/cisco/CCNA/etherchannel.md",
-    "네트워크/cisco/CCNA/vlan.md",
-    "네트워크/cisco/CCNA/stp.md",
-    "네트워크/cisco/CCNA/IPv4 header(layer 3).md",
-    "네트워크/cisco/CCNA/switch interface.md",
-    "네트워크/cisco/CCNA/ARP.md",
-    "네트워크/cisco/CCNA/라우터(2).md",
-    "네트워크/cisco/CCNA/라우터(1).md",
-    "네트워크/cisco/CCNA/라우터 조작.md",
-    "네트워크/cisco/CCNA/라우터 기본설정.md",
-    "네트워크/cisco/CCNA/IPv4.md",
-    "네트워크/cisco/CCNA/ethernet header(layer 2).md",
-    "네트워크/cisco/CCNA/ether channel.md",
     "low level",
     "2024-2/컴퓨터비전",
     "virtualization/kws",
     "2024-2/인공지능",
     "2024-2/마이크로프로세서",
-    "2024-2",
-    "virtualization/libvirt",
-    "k8s/set up k8s in hard way",
-    "k8s/basic concepts and commands",
-    "k8s",
     "kwangConnection/동작모델.canvas",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
@@ -246,7 +210,6 @@
     "imagesCan/Pasted image 20231021163756.png",
     "imagesCan/Pasted image 20231020201857.png",
     "imagesCan/Pasted image 20231021171407.png",
-    "imagesCan/Pasted image 20231021170416.png",
     "도커/무제 파일.canvas",
     "kwangConnection/Untitled 1.canvas"
   ]
